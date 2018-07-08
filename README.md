@@ -6,7 +6,7 @@
 
 
 ## Introduction
- This [induction](http://edouard-legoupil.github.io/humanitaRian-data-science/slides) aims at kickstarting Humanitarian Information Management Officers interested in learning the R statistical language.
+ This [induction](https://humanitarian-user-group.github.io/humanitaRian-data-science/slides/index.html) aims at kickstarting Humanitarian Information Management Officers interested in learning the R statistical language.
  
  The presentation includes many external links to additional tutorials.
 
